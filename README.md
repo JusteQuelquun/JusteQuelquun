@@ -1,4 +1,2 @@
 - ⚡ Fun facts:
--->I practice Kyokushin Karate, Jujutsu and Judo extensively
--->Fluent in Swedish,German,French,Russian, Japanese and Mandarin Chinese
--->I love my dog more than people
+-->I am in a love hate relationship with being a programmer
