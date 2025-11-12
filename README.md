@@ -1,2 +1,1 @@
-- ⚡ Fun facts:
--->I am in a love hate relationship with being a programmer
+
